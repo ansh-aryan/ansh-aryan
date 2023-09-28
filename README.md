@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **NextJS**
 
 - 🌱 I’m currently learning **MERN stack**
 
