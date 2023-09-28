@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ansh4growth@gmail.com**
 
-- ⚡ Fun fact **Aesthetic codes are an illusion.**
+- ⚡ Fun fact **Aesthetic codes are an illusion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
