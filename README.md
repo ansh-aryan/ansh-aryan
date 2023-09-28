@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ansh-aryan](https://github.com/ansh-aryan)
+- 👨‍💻 All of my projects are available at [https://github.com/ansh-aryan (https://github.com/ansh-aryan)]
 
 - 💬 Ask me about **React, C++**
 
